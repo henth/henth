@@ -19,7 +19,7 @@ root@novais: Me chamo Gustavo ğŸ‘‹ Sou um humilde Devopeiro que faz umas automaÃ
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40"/> 
 
 https://www.linkedin.com/in/novaisg/
           
