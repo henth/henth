@@ -23,7 +23,7 @@ root@novais: Me chamo Gustavo ğŸ‘‹ Sou um humilde Devopeiro que faz umas automaÃ
 </div>
 
 
-<img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="40" height="40" />
+<img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="165" height="165" />
           
           
 <div>
