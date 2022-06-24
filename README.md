@@ -34,7 +34,7 @@ Me chamo Gustavo, tenho 25 anos e sou apenas um humilde Devopeiro que faz umas a
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=henth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Contatos  
+### 💼 Contatos  
   
 <div>
 <a href="https://www.linkedin.com/in/novaisg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://gitlab.com/henth/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>   
