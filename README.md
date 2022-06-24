@@ -1,5 +1,5 @@
 <div>
-<img src="c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif" />
+![F](https://c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif)
 
 ```bash
 root@novais: uname -a
