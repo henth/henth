@@ -1,5 +1,5 @@
 ```bash
-uname -a
+root@novais: uname -a
 
 root@novais: Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
 ```
