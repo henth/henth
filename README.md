@@ -1,3 +1,6 @@
+<img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
+
+
 ```bash
 root@novais: uname -a
 
@@ -20,9 +23,6 @@ Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
 <div>
 <a href="https://www.linkedin.com/in/novaisg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-<img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
           
           
 <div>
