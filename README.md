@@ -11,7 +11,7 @@ Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
 
 ### Ferramentas e Tecnologias
 <div>
-<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem12.png" />
+<img src="https://img.shields.io/badge/Vagrant-2966CE?style=for-the-badge&logo=vagrant&logoColor=white" />
 <a href=        
 <a href=
 <a href=         
