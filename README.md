@@ -4,7 +4,7 @@
 ```bash
 root@novais: uname -a
 
-Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
+Me chamo Gustavo, tenho 25 anos e sou apenas um humilde Devopeiro que faz umas automações aí. :v:
 ```
 
 ![My job](https://img.shields.io/badge/My%20Job-DevOps-blue)
