@@ -5,7 +5,6 @@ Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
 ```
 - 🔭 DevOps Analyst
 - 🌱 Aprendendo Cloud Computer
-- 📫 Como entrar em contato comigo: linkedin/novaig
 
 ### Ferramentas e Tecnologias
 
