@@ -1,8 +1,13 @@
   ![F](https://c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif)             ![G](https://www.iauro.com/wp-content/uploads/2020/10/Balance.gif)
 
 ```bash
-root@novais: uname -a
+root@novais: whoami
 
+Gustavo Novais
+```
+```bash
+root@novais: uname -a
+```
 Me chamo Gustavo, tenho 25 anos e sou apenas um humilde Devopeiro que faz umas automações aí. ✌️
 ```
 
