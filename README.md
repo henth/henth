@@ -1,7 +1,7 @@
-<div>
 ![F](https://c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif)
+
 ![G](https://www.grupomult.com.br/wp-content/uploads/2020/08/por-que-o-devops-e-popular-na-ti-corporativa04.gif)
-<div>
+
   
 ```bash
 root@novais: uname -a
