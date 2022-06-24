@@ -1,5 +1,3 @@
-![F](https://c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif)![](https://www.grupomult.com.br/wp-content/uploads/2020/08/por-que-o-devops-e-popular-na-ti-corporativa04.gif)
-
 ![G](https://www.grupomult.com.br/wp-content/uploads/2020/08/por-que-o-devops-e-popular-na-ti-corporativa04.gif)
 
   
