@@ -7,9 +7,7 @@ root@novais: uname -a
 Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
 ```
 
-![My job](https://img.shields.io/badge/My%20job-DevOps-success?style=flat-square&logo=microgenetics&logoColor=white)
-
-- 🌱 Aprendendo Cloud Computer
+![My job](https://img.shields.io/badge/My%20job-DevOps-success?style=flat-square&logo=microgenetics&logoColor=white) [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 
 ### Ferramentas e Tecnologias
 <div>
