@@ -31,5 +31,3 @@ root@novais: Me chamo Gustavo ðŸ‘‹ Sou um humilde Devopeiro que faz umas automaÃ
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henth&layout=compact&langs_count=7&theme=dracula"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=henth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-          
-https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919
