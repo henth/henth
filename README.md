@@ -1,5 +1,4 @@
-![G](https://www.grupomult.com.br/wp-content/uploads/2020/08/por-que-o-devops-e-popular-na-ti-corporativa04.gif)
-![G](https://cdn.dribbble.com/users/1480650/screenshots/4739771/media/d377582a6131bbc18d5b2856cbd99b59.gif)
+![G](https://www.iauro.com/wp-content/uploads/2020/10/Balance.gif)
 
   
 ```bash
