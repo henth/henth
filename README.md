@@ -46,6 +46,6 @@ Tenho 25 anos e sou apenas um humilde Devopeiro que faz umas automações aí. �
 ### 💼 Contatos  
   
 <div>
-<a href="https://www.linkedin.com/in/novaisg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://gitlab.com/henth/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/novaisg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://gitlab.com/henth/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
   
 [![Support Server](https://img.shields.io/discord/720343539002769485.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/teqbsEzF)
