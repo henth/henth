@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
+<img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
 
 
 ```bash
