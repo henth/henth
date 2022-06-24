@@ -1,7 +1,7 @@
 ```bash
 root@novais: uname -a
 
-root@novais: Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
+Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
 ```
 - 🔭 DevOps Analyst
 - 🌱 Aprendendo Cloud Computer
