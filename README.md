@@ -22,7 +22,7 @@ Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
 </div>
 
 
-<img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="200" height="200" />
+<img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="300" height="300" />
           
           
 <div>
