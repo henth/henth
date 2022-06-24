@@ -16,25 +16,15 @@ Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  width="38" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="40"/>
-          
-
-
-### Contatos
-
-
-<div>
-<a href="https://www.linkedin.com/in/novaisg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-          
-          
-</div>
-          
-    
-          
+       
           
           
 </div>
 <a href="https://github.com/henth">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henth&layout=compact&langs_count=7&theme=dracula"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=henth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div>
+<a href="https://www.linkedin.com/in/novaisg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
