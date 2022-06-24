@@ -1,4 +1,4 @@
-  ![F](https://c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif)          #a        ![G](https://www.iauro.com/wp-content/uploads/2020/10/Balance.gif)
+  ![F](https://c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif)             ![G](https://www.iauro.com/wp-content/uploads/2020/10/Balance.gif)
 
 ```bash
 root@novais: uname -a
@@ -11,7 +11,7 @@ Me chamo Gustavo, tenho 25 anos e sou apenas um humilde Devopeiro que faz umas a
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 
   
-### Ferramentas e Tecnologias
+### 🖥️ Ferramentas e Tecnologias
 <div>
 <img src="https://img.shields.io/badge/Vagrant-2966CE?style=for-the-badge&logo=vagrant&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white" />
