@@ -1,5 +1,5 @@
 ![G](https://www.grupomult.com.br/wp-content/uploads/2020/08/por-que-o-devops-e-popular-na-ti-corporativa04.gif)
-![G](https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif)
+![G](https://cdn-images-1.medium.com/fit/t/1600/480/1*mqv03KrlG5LK2XU1uV4LJg.gif)
   
 ```bash
 root@novais: uname -a
