@@ -46,3 +46,13 @@ Tenho 25 anos e sou apenas um humilde Devopeiro que faz umas automações aí. �
 <div>
 <a href="https://www.linkedin.com/in/novaisg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://gitlab.com/henth/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>   
 </div>
+
+  
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&username=devBertini" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=devBertini" height="130" alt="languages graph"  />
+</div>
+
+###
