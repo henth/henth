@@ -7,7 +7,7 @@ root@novais: uname -a
 Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
 ```
 <div>
-<img src="img.shields.io/badge/My%20job-intelliatx-success?style=flat-square&logo=microgenetics&logoColor=white" />
+[![My job](https://img.shields.io/badge/My%20job-intelliatx-success?style=flat-square&logo=microgenetics&logoColor=white)]
 <div>
 - 🌱 Aprendendo Cloud Computer
 
