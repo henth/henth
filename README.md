@@ -6,10 +6,11 @@ root@novais: uname -a
 
 Me chamo Gustavo 👋 Sou um humilde Devopeiro que faz umas automações aí.
 ```
-
-![My job](https://img.shields.io/badge/My%20Job-DevOps-blue) 
+<div>
+![My job](https://img.shields.io/badge/My%20Job-DevOps-blue)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
-
+<div>
+  
 ### Ferramentas e Tecnologias
 <div>
 <img src="https://img.shields.io/badge/Vagrant-2966CE?style=for-the-badge&logo=vagrant&logoColor=white" /> 
