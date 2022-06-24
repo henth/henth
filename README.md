@@ -1,5 +1,4 @@
-<img src="c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
-
+<img src="c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif" />
 
 ```bash
 root@novais: uname -a
