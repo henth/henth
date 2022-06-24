@@ -1,4 +1,4 @@
-![G](https://www.iauro.com/wp-content/uploads/2020/10/Balance.gif)
+![F](https://c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif) ![G](https://www.iauro.com/wp-content/uploads/2020/10/Balance.gif)
 
   
 ```bash
