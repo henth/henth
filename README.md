@@ -1,4 +1,3 @@
-<div>
 ![F](https://c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif)
 
 ```bash
