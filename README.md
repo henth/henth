@@ -1,4 +1,4 @@
-![F](https://c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif)            ![G](https://www.iauro.com/wp-content/uploads/2020/10/Balance.gif)
+<img src="https://c.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif" /> <img alt="Rafa-HTML" height="200" width="500" src="https://www.iauro.com/wp-content/uploads/2020/10/Balance.gif" />
 
 ```bash
 root@novais: whoami
